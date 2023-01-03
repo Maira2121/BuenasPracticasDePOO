@@ -1,8 +1,8 @@
-## ¡Bienvenido al repositorio creado para el taller 3 de la Cantera nivel 2!
-Ejercicios prácticos de buenas prácticas de POO, Semana 2:
+## ¡Bienvenido al repositorio creado para Buenas practicas de POO!
+Ejercicios prácticos de buenas prácticas de POO:
 ** Descripción:**
 ------------
-En pareja diseñar una aplicación que administre una lista de canciones, se debe tener lo siguiente:
+Se diseña una aplicación que administra una lista de canciones, se tuvo en cuenta  lo siguiente:
 
 Una biblioteca principal con todas las canciones.
 - Se debe tener una funcionalidad que permita crear playlist con canciones determinadas.
@@ -19,7 +19,6 @@ En este repositorio usted encontrará una carpeta principal llamada src, la cual
 
 ------------
 
-** Nota:**
-Este taller lo entregué sola porque mi compañera tuvo problemas familiares y no pudimos concretar la comunicación para trabajar y yo necesitaba entregar pronto la solución de los ejercicios.
+
 
 ###Fin.
